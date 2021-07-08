@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eudris Cabrera</h1>
 <h3 align="center">Software Developer, Linux User, OpenSource Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ecabrerar&label=Profile%20views&color=0e75b6&style=flat" alt="ecabrerar" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/eudriscabrera" target="blank"><img src="https://img.shields.io/twitter/follow/eudriscabrera?logo=twitter&style=for-the-badge" alt="eudriscabrera" /></a> </p>
 
