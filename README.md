@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/eudriscabrera" target="blank"><img src="https://img.shields.io/twitter/follow/eudriscabrera?logo=twitter&style=for-the-badge" alt="eudriscabrera" /></a> </p>
 
-- 🌱 I’m currently learning **Java and JVM features since JDK 11 to 16 and Reactive in practice**
+- 🌱 I’m currently learning **Java and JVM features since JDK 11 to 16 and Reactive in Practice**
 
 - 💬 Ask me about **Java, Linux, Software Development, Open Source**
 
