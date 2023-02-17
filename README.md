@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java and JVM features since JDK 17 to 19 and Secure Software Development Lifecycle (SSDLC)**
 
-- 💬 Ask me about **Java, Linux, Software Development, Open Source**
+- 💬 Ask me about **Java, Linux, Software Development, Open Source, Secure Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
