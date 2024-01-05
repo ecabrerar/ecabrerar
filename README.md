@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/eudriscabrera" target="blank"><img src="https://img.shields.io/twitter/follow/eudriscabrera?logo=twitter&style=for-the-badge" alt="eudriscabrera" /></a> </p>
 
-- 🌱 I’m currently learning **Java and JVM features since JDK 17 to 19 and Secure Software Development Lifecycle (SSDLC)**
-
 - 💬 Ask me about **Java, Linux, Software Development, Open Source, Secure Coding**
 
 <h3 align="left">Connect with me:</h3>
