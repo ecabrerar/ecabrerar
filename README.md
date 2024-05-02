@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Eudris Cabrera</h1>
-<h4>Software Developer, Linux User, Open Source Enthusiast. Co-founder of the Dominican Republic JUG @JavaDominicano and member of the organizing staff of JConf Dominicana (https://jconfdominicana.org)</h4>
+<h4>Software Developer, Linux User, Open Source Enthusiast. Co-founder of the Dominican Republic JUG @JavaDominicano and Co-founder of JConf Dominicana (https://jconfdominicana.org)</h4>
 
 - If you are curious about Java, Linux, software development, open source, secure coding, software dependency management, code quality, and other topics related to Java, feel free to <a href="mailto:contact@eudriscabrera.com">ask me 💬</a>.
 
